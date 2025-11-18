@@ -1,6 +1,6 @@
 # Tidbyt-Shotgrid Integration
 
-![Preview](./tidbyt.jpg)
+<img width="2829" alt="tidbyt" src="https://github.com/user-attachments/assets/bbdbad84-1130-43e8-b6d9-3ea1b8bcb5ec" />
 
 ## Overview
 
